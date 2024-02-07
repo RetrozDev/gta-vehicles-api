@@ -1,0 +1,11 @@
+[
+    {
+      "id": "1",
+      "type": "Car",
+      "constructor": "Grotti",
+      "name": "Turismo Omaggio",
+      "class": "Super",
+      "img_src": "./images/turismo3.webp"
+    }
+  ]
+  
